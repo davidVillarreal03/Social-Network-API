@@ -8,7 +8,7 @@
 
 A backend application that mimics Social network interaction by allowing a user to have friends, react and create post. This was made with Node, Express and Mongoose. 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
@@ -63,10 +63,6 @@ SOFTWARE.
 ## Badges
 
 ![License: MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-## Features
-
-If your project has a lot of features, list them here.
 
 ## How to Contribute
 
