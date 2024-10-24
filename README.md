@@ -23,7 +23,7 @@ Anyone who wishes to install must git clone this repo into vscode. They will the
 
 ## Usage
 
-User must run 'npm start' and open an application called 'Insomnia'. Watch this video link to see examples of routes being used. 
+User must run 'npm start' and open an application called 'Insomnia'. Watch this [video](https://youtu.be/_o_6gMxuZyA) to see examples of routes being used. 
 
 ## Credits
 
