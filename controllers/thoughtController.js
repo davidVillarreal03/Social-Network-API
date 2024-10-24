@@ -21,8 +21,9 @@ module.exports = {
             if (!thought) {
                 res.status(404).json({ message: 'No thought with that ID' })
             }
+            res.json({ thought });
 
-            res.status(200).json(thought);
+            // res.status(200).json(thought);
         } catch (err) {
             console.log(err);
             res.status(500).json(err);
